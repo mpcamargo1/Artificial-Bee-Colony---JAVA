@@ -6,5 +6,7 @@
  </div> 
 
 
-# Observações
+# Observação
 - Projeto Maven
+- Visite https://en.wikipedia.org/wiki/Test_functions_for_optimization para testar novas funções de otimização
+
